@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bej:home|Door43 (bej)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bej|d43-bej repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bej/archive/master.zip|d43-bej.zip]]
+
+**Recent Changes**
+{{changes>ns = bej}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bej|Ethnologue data]]
+
